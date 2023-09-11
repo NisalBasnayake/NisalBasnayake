@@ -25,7 +25,6 @@ Whether you're an experienced developer or just starting, I invite you to join m
 **Thank you for visiting my GitHub!** 🌟
 
 [![Follow me on GitHub](https://github.com/NisalBasnayake)
-[![Follow me on LinkedIn](https://www.linkedin.com/in/nisalbasnayake)
 
 *P.S. Stay tuned for more exciting updates and projects!*
 
